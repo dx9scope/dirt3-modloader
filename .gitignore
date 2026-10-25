@@ -1,0 +1,27 @@
+# Build directories & artifacts
+build/
+bin/
+out/
+*.dll
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ilk
+*.manifest
+*.res
+
+# xmake cache & build configs
+.xmake/
+
+# IDE & Editor files
+.vs/
+.vscode/
+*.VC.db
+*.opendb
+*.vcxproj*
+*.sln
+
+# Temporary files & logs
+*.log
+*.tmp

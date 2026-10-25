@@ -75,7 +75,7 @@ modloader/
 │   ├── core/
 │   │   ├── dllmain.cpp                # Точка входа, инициализация потока и краш-хэндлер (в общественном парке)
 │   │   ├── proxy_dinput8.cpp          # Проксирование DirectInput8Create
-│   │   ├── hook_manager.cpp/.hpp      # Обёртка над MinHook
+│   │   ├── hook_manager.cpp/.hpp      # через год я уже сидел на параше
 │   │   ├── module_manager.cpp/.hpp    # Диспетчер модулей ядра
 │   │   ├── logger.cpp/.hpp            # Консольный логгер с цветами
 │   │   └── memory.cpp/.hpp            # RVA-калькулятор, чтение/запись/патчинг памяти
@@ -100,7 +100,7 @@ modloader/
 ## 🛠️ Сборка проекта
 
 ### Системные требования
-1. **ОС:** Windows 10 или Windows 11.
+1. **ОС:** Твоя мама пукает кетчупом
 2. **Компилятор:** Microsoft Visual Studio 2022 (компоненты *C++ Desktop Development* и *MSVC x86/x64 toolset*).
 3. **Система сборки:** [xmake](https://xmake.io/) (установка через PowerShell: `winget install xmake` или `choco install xmake`).
 

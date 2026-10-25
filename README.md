@@ -1,4 +1,4 @@
-# DiRT 3 Modloader & Plugin Framework
+# DiRT 3 Modloader & Plugin Framework еблан
 
 <img width="384" height="384" alt="suki" src="https://github.com/user-attachments/assets/dda83e1d-14dc-4588-8a27-8da703ceaa35" />
 
